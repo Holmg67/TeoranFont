@@ -1,0 +1,19 @@
+{
+  "name": "TeoranFont Background",
+  "description": "Custom Aliucord theme with TeoranFont background image",
+  "author": "Holmg67",
+  "background": {
+    "url": "https://github.com/Holmg67/TeoranFont/raw/main/Untitled6_20260527233837.png",
+    "blur": 0,
+    "scale": 1,
+    "alpha": 0.8
+  },
+  "colors": {
+    "primary_dark": "#36393F",
+    "primary": "#2C2F33",
+    "primary_light": "#23272A",
+    "secondary": "#99AAB5",
+    "tertiary": "#72767D",
+    "accent": "#7289DA"
+  }
+}
